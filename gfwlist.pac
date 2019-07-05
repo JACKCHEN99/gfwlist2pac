@@ -2,8 +2,8 @@
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
  * GFWList Last-Modified: 2019-05-23 00:27:18
  */
-
-var proxy = 'SOCKS5 127.0.0.1:1080';
+//pac地址: https://raw.githubusercontent.com/JACKCHEN99/gfwlist2pac/master/gfwlist.pac
+var proxy = 'SOCKS5 127.0.0.1:1380';
 var rules = [
     [
         [],
